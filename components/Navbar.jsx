@@ -24,6 +24,17 @@ function Navbar() {
               <li className="flex items-center gap-2 p-2 rounded-md cursor-pointer hover:bg-gray-100">
                 <Image
                   className="max-w-8"
+                  src="/images/ar.png"
+                  alt="arabic"
+                  width={32}
+                  height={32}
+                />
+                Arabic
+              </li>
+
+              <li className="flex items-center gap-2 p-2 rounded-md cursor-pointer hover:bg-gray-100">
+                <Image
+                  className="max-w-8"
                   src="/images/bd.png"
                   alt="bangla"
                   width={32}

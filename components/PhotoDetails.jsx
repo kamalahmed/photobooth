@@ -17,7 +17,6 @@ const PhotoDetails = async ({ id, lang }) => {
           alt={photo.title}
           width={900}
           height={500}
-          layout="responsive"
         />
       </div>
 

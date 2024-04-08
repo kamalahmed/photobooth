@@ -27,3 +27,7 @@
       @apply text-white font-semibold text-base lg:text-lg;
     }
   }
+
+html, body{
+    height: 100%;
+}

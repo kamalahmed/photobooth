@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Live Preview
+Demo Link: [https://photobooth-qeeg.vercel.app/en](https://photobooth-qeeg.vercel.app/en)
+
+
+![Preview Image of the app](public/photobooth-preview.jpg)
+
 ## Getting Started
 
 First, run the development server:
